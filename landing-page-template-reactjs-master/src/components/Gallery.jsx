@@ -11,8 +11,6 @@ import { Carousel } from "react-responsive-carousel";
 // components
 import Title from './Title'
 import Paragraph from './Paragraph'
-
-
 const Gallery = () => {
     
     const [currentIndex, setCurrentIndex] = useState();
